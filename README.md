@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Summary
 
-By typing, debuging, searching and reading, I have learned a low from [Jason Watmore's blog](https://jasonwatmore.com/post/2021/08/19/next-js-11-user-registration-and-login-tutorial-with-example-app#users-add-jsx), including:
+By typing, debuging, searching and reading, I have learned a lot from [Jason Watmore's blog](https://jasonwatmore.com/post/2021/08/19/next-js-11-user-registration-and-login-tutorial-with-example-app#users-add-jsx), including:
 - JWT authentication
 - rxjs, a little bit about BehaviorSubject
 - More familiar about next.js
